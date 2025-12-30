@@ -17,7 +17,17 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-I’m Rohit Kumar Chintamani — a Computer Science master’s student and full-stack engineer.<br>I build secure, scalable web apps with Java/Spring Boot, React, and MySQL.<br>I like clean architecture, performance, and production-ready UX.<br><br>What I do<br><br>Backend APIs, auth (JWT/RBAC), integrations<br><br>React dashboards + admin panels<br><br>Database design + performance tuning<br><br>Cloud + CI/CD basics (AWS/Azure, Git)
+
+Hi, I’m **Rohit Kumar Chintamani** — a CS Master’s student and Full-Stack Developer.  
+I build secure, scalable web apps using **Java/Spring Boot**, **React**, and **MySQL**.
+
+- 🔭 I’m currently working on **LearnSphere (micro-learning platform)** and a **Retail Store App**
+- 🌱 I’m currently learning **system design**, **cloud**, and **advanced DSA**
+- 👯 I’m looking to collaborate on **full-stack projects** and **backend APIs**
+- 🤔 I’m looking for help with **production architecture**, **testing**, and **deployment**
+- 💬 Ask me about **Spring Boot**, **React**, **REST APIs**, **JWT/RBAC**, **MySQL**
+- 📫 How to reach me: **chintamanirohitkumar@gmail.com**
+- ⚡ Fun fact: I enjoy turning ideas into **real, deployable products**
 
 
 ## 🌐 Socials:
