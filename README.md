@@ -1,7 +1,6 @@
 # 💫 About Me:
 
-Hi, I’m **Rohit Kumar Chintamani** — a CS Master’s student and Full-Stack Developer.  
-I build secure, scalable web apps using **Java/Spring Boot**, **React**, and **MySQL**.
+Hi, I’m **Rohit Kumar Chintamani** — a CS Master’s student and Full-Stack Developer and a Site Reliability Engineer.
 
 - 🔭 I’m currently working on **LearnSphere (micro-learning platform)** and a **Retail Store App**
 - 🌱 I’m currently learning **system design**, **cloud**, and **advanced DSA**
